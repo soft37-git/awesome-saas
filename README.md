@@ -78,6 +78,7 @@
 - [Algolia](https://www.algolia.com/) – Hosted search API powering fast, relevant search UX.
 - [SendGrid](https://sendgrid.com/) – Email API for transactional and marketing emails.
 - [Twilio](https://www.twilio.com/) – Messaging, voice, and SMS API for customer communications.
+- [SendItWhenever](https://www.sendit-whenever.com/) - Flat-rate scheduler that fires delayed HTTP webhooks at a future time, HMAC-signed, with second-level precision.
 
 ## Customer Support & Communication
 
